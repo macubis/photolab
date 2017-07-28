@@ -1,0 +1,67 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-size: border-box;
+}
+.cero{
+	background-image: url("/assets/img/bg1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+
+}
+.navbar{
+	background-color: transparent !important;
+	padding-left: 180px;
+}
+.texto{
+	padding:50px;
+}
+.blanco{
+	padding:20px;
+	color:white;
+}
+.lista{
+	padding:5px;
+	color: white;
+}
+
+.titulo{
+	color: white;
+	font-size: 35px;
+	padding: 50px;
+}
+.btn-color{
+	background-color: #1ABC9C;
+	color: white;
+}
+.iguales{
+	color:gray;
+	text-align:left;
+}
+.dos{
+	background-color: whitesmoke;
+}
+.titulo-color{
+	padding: 20px;
+	color: #1ABC9C;
+	text-align: left;
+}
+.mano{
+	padding:20px;
+	width: 80%;
+}
+.tres{
+	background-color: white;
+}
+.tres img{
+	padding: 30px 40px 0px 40px;
+	width: 80%;
+}
+.cuatro{
+	padding: 56px;
+}
+.fotito{
+	width:80%;
+}
